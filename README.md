@@ -12,7 +12,7 @@ Este sistema foi desenvolvido para facilitar a criação e gerenciamento de logi
 ## Instruções de Uso
 
 1. **Configuração Inicial:**
-   - Certifique-se de ter todos os arquivos necessários baixados e configurados corretamente, incluindo scripts e estilos CSS.
+   - Certifique-se de ter todos os arquivos necessários baixados e configurados corretamente, incluindo scripts e estilos CSS
 
 2. **Interface de Usuário:**
    - Acesse a página `index.html` para iniciar o sistema.
